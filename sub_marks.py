@@ -1,0 +1,8 @@
+java=int(input("Enter your java Lang marks :"))
+c_lang=int(input("Enter your c Lang marks :"))
+cpp=int(input("Enetr Your c++ Lang marks :"))
+python=int(input("Enetr your python Lang marks:"))
+print("Java Lang:",java)
+print("c Lang:",c_lang)
+print("c++ Lang:",cpp)
+print("python:",python)
