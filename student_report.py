@@ -10,8 +10,7 @@ def get_status(name,mark):
     elif mark >=75:
         grade ="B" 
     else:
-        grade ="C"
-
+        grade ="C" 
     print("Name :",name)
     print("Marks :",mark)
     print("Grade :",grade)
