@@ -1,6 +1,0 @@
-a=int(input("Enter first number: "))
-b=int(input("Enter Second number: "))
-print("Addition= ",(a+b))
-print("Substraction= ",(a-b))
-print("Multiplication= ",(a*b))
-print("Division = ",(a/b))
